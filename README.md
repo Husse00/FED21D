@@ -40,4 +40,4 @@
 - [JessikaLjungberg](https://github.com/jess-works)
 - [Louise](https://github.com/lrosenqv)
 - [Helena](https://github.com/henalena)
-- [Hussein](https://github.com/husse00)
+- [Husssein](https://github.com/husse00)
